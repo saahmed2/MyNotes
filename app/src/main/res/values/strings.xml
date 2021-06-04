@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+    <string name="day">MONDAY</string>
+    <string name="date">Sept, 15</string>
+    <string name="reminder_time">9:00            </string>
+    <string name="feed_the_cat">Feed the cat</string>
+    <string name="to_do_lists">To-do-lists</string>
+    <string name="shopping">Shopping</string>
+    <string name="cabbage">Cabbage</string>
+    <string name="add_new">Add new</string>
+    <string name="note">     Note</string>
+    <string name="reminder">Reminder</string>
+    <string name="to_do_list">To-do list</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+
+</resources>
